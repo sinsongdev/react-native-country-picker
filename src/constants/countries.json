@@ -875,13 +875,6 @@
 		"callingCode": "1-869"
 	},
 	{
-		"code": "KP",
-		"unicode": "U+1F1F0 U+1F1F5",
-		"name": "North Korea",
-		"emoji": "🇰🇵",
-		"callingCode": "850"
-	},
-	{
 		"code": "KR",
 		"unicode": "U+1F1F0 U+1F1F7",
 		"name": "South Korea",
