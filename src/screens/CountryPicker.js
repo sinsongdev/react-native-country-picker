@@ -116,6 +116,7 @@ export const CountryPicker = (props) => {
             </TouchableOpacity> : null}
             <Modal
                 visible={visible}
+                onRequestClose={() => setVisible(false)}
             >
                 <DialogCountry
                     onSelectItem={(data) => { onSelect(data) }}
