@@ -1,6 +1,6 @@
 {
   "name": "react-native-region-country-picker",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "author": "Alien",
   "license": "MIT",
   "description": "React native library country picker",
@@ -27,16 +27,12 @@
     "url": "https://github.com/alien9996/react-native-country-picker/issues"
   },
   "homepage": "https://github.com/alien9996/react-native-country-picker#readme",
-  "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-  },
   "dependencies": {
-    "fuse.js": "^6.4.1",
-    "react-native-localize": "^1.4.2",
-    "react-native-status-bar-height": "^2.5.0"
+    "fuse.js": "^6.6.2",
+    "react-native-localize": "^2.2.4",
+    "react-native-status-bar-height": "^2.6.0"
   },
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.63.0"
+    "metro-react-native-babel-preset": "^0.73.4"
   }
 }
